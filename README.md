@@ -80,6 +80,6 @@ To-Do / Ideas for Future
 
 Authors
 
-Linus247 or BigBozin
-GitHub: 1. 
-        2. 
+Linus247 and BigBozin
+GitHub: 1. https://github.com/Linus247/BMI-CALCULATOR.git
+         
